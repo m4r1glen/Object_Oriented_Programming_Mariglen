@@ -8,4 +8,4 @@ The course spans 14 weeks. Each week has its own folder (`Week01/` to `Week14/`)
 
 ## Author
 
-Xhoja Ikonomi
+Mariglen Allushi
