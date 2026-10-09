@@ -4,7 +4,7 @@ A repository containing exercises that will be completed during the duration of 
 
 ## Structure
 
-Each laboratory session will get its own folder (e.g. `Lab01/`, `Lab02/`, ...) containing the exercises and solutions for that session.
+The course spans 14 weeks. Each week has its own folder (`Week01/` to `Week14/`) containing the exercises and solutions for that week's laboratory session.
 
 ## Author
 
